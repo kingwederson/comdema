@@ -9,12 +9,13 @@ function cabi(){
         </a>
         <nav id="menu">
             <ul class="menu">
-                <li>Regimento Interno</li>
-                <a href="#leis"><li>Leis</li></a>
-                <li>Portarias</li>
-                <li>Deliberações</li>
-                <li>Atas</li>
-                <li>Relatórios</li>
+                <a href="http://comdema.wederson.net.br/regimento/"><li>Regimento Interno</li></a>
+                <a href="http://comdema.wederson.net.br/leis/"><li>Leis</li></a></a>
+                <a href="http://comdema.wederson.net.br/portarias/"><li>Portarias</li></a>
+                <a href="http://comdema.wederson.net.br/deliberacoes/"><li>Deliberações</li></a>
+                <a href="http://comdema.wederson.net.br/atas/"><li>Atas</li></a>
+                <a href="http://comdema.wederson.net.br/relatorios/"><li>Relatórios</li></a>
+                <a href="http://comdema.wederson.net.br/noticias/"><li>Notícias</li></a>
             </ul>
         </nav>
     </nav>
