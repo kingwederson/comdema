@@ -3,8 +3,7 @@ body{
     margin:auto;
     border: 1px solid black;
     font-family: 'Nunito', sans-serif;
-    background-color: #946d46;
-    background-color:darkkhaki;
+    background-color:#bdb76b;
 }
 nav.main{
     border:1px dotted black;
@@ -12,16 +11,17 @@ nav.main{
 nav#cab{
     margin:auto;
     text-align: center;
-    background-color: cornflowerblue;
+    background-color: #6495ed;
 }
 nav#rodape{
     margin:auto;
     text-align: center;
-    background-color: cornflowerblue;
+    background-color: #6495ed;
 }
 nav.titulo{
     display: inline-block;
     margin:auto;
+    color:#ffffff;
 }
 span#hie1{
     font-size: 66px;
@@ -63,8 +63,9 @@ div.materia{
 p.lista{
     text-align: center;
 }
-a:visited{
-    color: none;
+a:active, a:link, a:visited{
     text-decoration: none;
-    color:black;  
+}
+#menu li{
+    color:white;
 }
