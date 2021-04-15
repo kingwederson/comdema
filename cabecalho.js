@@ -4,7 +4,7 @@ function cabi(){
     var htmlcab = `
     <nav class="main" id="cab">
         <img src="https://i.imgur.com/KIqa8eh.png" class="logo">
-        <nav class="titulo"><span id="hie1">COMDEMA</span><br><span id="hie2">Bom Bardim de Minas</span></nav>
+        <nav class="titulo"><span id="hie1">COMDEMA</span><br><span id="hie2">Bom Jardim de Minas</span></nav>
         <nav id="menu">
             <ul class="menu">
                 <li>Regimento Interno</li>
