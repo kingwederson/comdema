@@ -69,3 +69,6 @@ a:active, a:link, a:visited{
 #menu li{
     color:white;
 }
+div#conteudo{
+    max-width: 1024px;
+}
