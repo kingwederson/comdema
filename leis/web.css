@@ -102,6 +102,6 @@ div.assinatura{
     text-align: center !important;
     text-transform: capitalize;
 }
-div.leis{
-    max-width: 720px;
+nav.leis{
+    max-width: 1024px;
 }
