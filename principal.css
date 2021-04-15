@@ -70,13 +70,10 @@ a:active, a:link, a:visited{
     color:white;
 }
 nav#conteudo{
-    max-width: 1024px;
+    max-width: 720px;
     margin:auto;
 }
 p{
     text-align: justify;
     text-indent: 32px;
-}
-nav.leis{
-    max-width: 720px;
 }
