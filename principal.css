@@ -25,13 +25,13 @@ nav#cabecalhoinfo{
     margin:auto;
     text-align: center;
 }
-nav#conteudo{
+nav#conteudoinfo{
     max-width: 720px;
 }
 nav#rodapeinfo{
     margin:auto;
     text-align: center;
-    max-width: 720px;
+    max-width: 512px;
 }
 /*##################### FIM ################*/
 
