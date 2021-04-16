@@ -94,8 +94,9 @@ div.materia{
     max-width: 512px;
     border:1px solid black;
     margin:auto;
-    padding:10px 12px;
+    padding:0px 12px;
     border-radius: 12px;
+    margin:12px;
 }
 p.lista{
     text-align: center;
