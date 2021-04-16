@@ -34,8 +34,8 @@ div.lei{
 div.art{
     padding: 0px 0px 0px 5px;
 }
-div.par{
-    padding:0px 0px 0px 5%;
+div.par,div.paru{
+    padding:0px 0px 0px 5px;
 }
 div.art{
     counter-reset: par;
