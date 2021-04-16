@@ -3,6 +3,7 @@ body{
     margin:auto;
     border: 1px solid black;
     font-family: 'Nunito', sans-serif;
+    background-color: #6495ed;
 }
 /*############## DIVs DA PÁGINA #############*/
 div#cabecalho{
