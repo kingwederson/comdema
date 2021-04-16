@@ -3,23 +3,21 @@ body{
     margin:auto;
     border: 1px solid black;
     font-family: 'Nunito', sans-serif;
-    background-color:#bdb76b;
+    background-color: #6495ed;
 }
 div#conteudo{
     max-width: 720px;
     min-height: 50vh;
     margin:auto;
+    background-color:#bdb76b;
 }
 div#rodape{
-    background-color: #6495ed;;
+    background-color: #6495ed;
 }
 nav#cab{
     margin:auto;
     text-align: center;
     background-color: #6495ed;
-}
-nav#conteudo{
-    max-width: 720px;
 }
 nav#rodape{
     margin:auto;
