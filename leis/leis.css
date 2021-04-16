@@ -32,6 +32,12 @@ div.lei{
     padding: 0px;
 }
 div.art{
+    padding: 0px 0px 0px 5px;
+}
+div.par{
+    padding:0px 0px 0px 5%;
+}
+div.art{
     counter-reset: par;
 }
 div.art::before {
