@@ -1,8 +1,8 @@
-nav#conteudo.main{
+/*nav#conteudo.main{
     max-width: 720px;
     padding: 20px;
     margin:auto;
-}
+}*/
 h1{
     text-align: center;
 }
@@ -101,4 +101,7 @@ div.assinatura{
     font-size: 1.3em;
     text-align: center !important;
     text-transform: capitalize;
+}
+div.lei, div.lei li{
+    text-align: justify;
 }
