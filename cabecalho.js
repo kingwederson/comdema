@@ -10,6 +10,7 @@ function cabi(){
         <nav id="menu">
             <ul class="menu">
                 <a href="http://comdema.wederson.net.br/regimento/"><li>Regimento Interno</li></a>
+                <a href="http://comdema.wederson.net.br/composicao/"><li>Composição</li></a></a>
                 <a href="http://comdema.wederson.net.br/leis/"><li>Leis</li></a></a>
                 <a href="http://comdema.wederson.net.br/portarias/"><li>Portarias</li></a>
                 <a href="http://comdema.wederson.net.br/deliberacoes/"><li>Deliberações</li></a>
