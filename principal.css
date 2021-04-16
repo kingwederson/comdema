@@ -3,28 +3,38 @@ body{
     margin:auto;
     border: 1px solid black;
     font-family: 'Nunito', sans-serif;
+}
+/*############## DIVs DA PÁGINA #############*/
+div#cabecalho{
     background-color: #6495ed;
 }
 div#conteudo{
-    max-width: 720px;
-    min-height: 50vh;
+    padding: 10% 5%;
     margin:auto;
     background-color:#bdb76b;
 }
 div#rodape{
     background-color: #6495ed;
 }
+/*##################### FIM ################*/
+
+
+/*############## NAVs DA PÁGINA #############*/
 nav#cabecalhoinfo{
     margin:auto;
     text-align: center;
-    background-color: #6495ed;
+}
+nav#conteudo{
+    max-width: 720px;
 }
 nav#rodapeinfo{
     margin:auto;
     text-align: center;
-    background-color: #6495ed;
     max-width: 720px;
 }
+/*##################### FIM ################*/
+
+/*######### INFORMAÇÕES DO CABEÇALHO COMUM ###############*/
 nav.titulo{
     display: inline-block;
     margin:auto;
@@ -48,6 +58,12 @@ ul.menu li{
     border-radius:7px;
     background-color: rgb(64, 98, 160);
 }
+#menu li{
+    color:white;
+}
+/*##################### FIM ################*/
+
+/*############ INFORMAÇÕES TEXTUAIS BÁSICAS ###########*/
 h1,h2,h3,h4,h5,h6{
     text-align: center;
 }
@@ -60,6 +76,13 @@ h2{
 h2{
     font-size: 18pt;
 }
+p{
+    text-align: justify;
+    text-indent: 32px;
+}
+/*##################### FIM ################*/
+
+/*############# CARD DE MATÉRIAS ############*/
 div.materia{
     max-width: 512px;
     border:1px solid black;
@@ -73,10 +96,4 @@ p.lista{
 a:active, a:link, a:visited{
     text-decoration: none;
 }
-#menu li{
-    color:white;
-}
-p{
-    text-align: justify;
-    text-indent: 32px;
-}
+/*##################### FIM ################*/
