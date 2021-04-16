@@ -18,6 +18,9 @@ nav#cab{
     text-align: center;
     background-color: #6495ed;
 }
+nav#conteudo{
+    max-width: 720px;
+}
 nav#rodape{
     margin:auto;
     text-align: center;
