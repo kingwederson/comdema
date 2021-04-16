@@ -124,7 +124,7 @@ ul.lateral li:hover{
     color:white;
     transition: 0.5s;
 }
-div.secundaria nav#ligacoes h1,h2,h3,h4{
-    font-size:0.9em;
+div.secundaria nav#ligacoes h2{
+    font-size:14pt;
 }
 /*##################### FIM ################*/
