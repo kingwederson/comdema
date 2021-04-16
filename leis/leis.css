@@ -32,10 +32,10 @@ div.lei{
     padding: 0px;
 }
 div.art{
-    padding: 0px 0px 0px 5px;
+    padding: 0px 0px 0px 15px;
 }
 div.par,div.paru{
-    padding:0px 0px 0px 5px;
+    padding:0px 0px 0px 5%;
 }
 div.art{
     counter-reset: par;
