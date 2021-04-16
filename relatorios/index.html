@@ -6,20 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="https://i.imgur.com/KIqa8eh.png">
     <title>Relatórios | COMDEMA</title>
-    <link rel="stylesheet" href="http://comdema.wederson.net.br/principal.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../principal.css">
     <script src="http://comdema.wederson.net.br/cabecalho.js"></script>
-    <script src="http://comdema.wederson.net.br/rodape.js"></script>
+    <script src="../rodape.js"></script>
+    <script src="../lateral.js"></script>
 </head>
-<body onload="cabi(), rodapi()">
+<body onload="cabi(), rodapi(), laterali()">
     <div class="reset" id="cabecalho">Não carregou :(</div>
-    <nav class="main" id="conteudo">
-        <h1 id="leis">Relatórios</h1>
+    <div class="main" id="conteudo">
+        <nav id="conteudoinfo">
+            <h1>Relatórios</h1>
             <div class="materia">
-                <h2>Não há nenhum relatório disponível neste site ainda.</h2>
+                <h4>Não há nenhum relatório disponível neste site ainda.</h4>
             </div>
-    </nav>
+        </nav>
+        <div id="secundaria">
+            <!--aqui ficam a nav#ligacoes-->
+        </div>
+    </div>
     <div class="reset" id="rodape">Não carregou :(</div>
 </body>
 </html>

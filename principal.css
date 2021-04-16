@@ -5,14 +5,17 @@ body{
     font-family: 'Nunito', sans-serif;
     background-color: #6495ed;
 }
+b{
+    color:crimson;
+}
 /*############## DIVs DA PÁGINA #############*/
 div#cabecalho{
     background-color: #6495ed;
 }
 div#conteudo{
-    padding: 10% 5%;
     margin:auto;
     background-color:#bdb76b;
+    display: flex;
 }
 div#rodape{
     background-color: #6495ed;
@@ -27,6 +30,8 @@ nav#cabecalhoinfo{
 }
 nav#conteudoinfo{
     max-width: 720px;
+    padding: 0% 5%;
+    margin:auto;
 }
 nav#rodapeinfo{
     margin:auto;
@@ -55,7 +60,7 @@ ul.menu{
 }
 ul.menu li{
     display:inline-block;
-    padding:5px;
+    padding:0px 5px;
     border-radius:7px;
     background-color: rgb(64, 98, 160);
 }
@@ -69,13 +74,14 @@ h1,h2,h3,h4,h5,h6{
     text-align: center;
 }
 h1{
-    font-size: 22pt;
+    font-size: 26pt;
+    color:navy;
 }
 h2{
+    font-size: 23pt;
+}
+h3{
     font-size: 20pt;
-}
-h2{
-    font-size: 18pt;
 }
 p{
     text-align: justify;
@@ -88,7 +94,7 @@ div.materia{
     max-width: 512px;
     border:1px solid black;
     margin:auto;
-    padding:12px;
+    padding:0px 12px;
     border-radius: 12px;
 }
 p.lista{
@@ -98,3 +104,27 @@ a:active, a:link, a:visited{
     text-decoration: none;
 }
 /*##################### FIM ################*/
+
+/*############# BARRA LATERAL ###############*/
+div.secundaria{
+    display: block;
+}
+nav#ligacoes{
+    padding: 0%;
+    background-color: #0003;
+    border-radius: 5%;
+}
+nav#ligacoes a{
+    color:black;
+}
+ul.lateral{
+    color:#000;
+}
+ul.lateral li:hover{
+    color:white;
+    transition: 0.5s;
+}
+/*##################### FIM ################*/
+nav,div{
+    border:0px solid black;
+}
