@@ -1,0 +1,32 @@
+.materia#mat1{
+    background-image: linear-gradient(#0008, #000b), url('https://i.imgur.com/a8mJ24S.png');
+}
+img{
+    border-radius: 5%;
+    max-width: 100%;
+}
+figure.capa{
+    border-radius: 5%;
+    border:1px dotted black;
+}
+figcaption{
+    font-size: 10pt;
+    padding: 0px 5%;
+}
+p.autor{
+    text-align: right;
+    font-size: 10pt;
+}
+nav#conteudoinfo{
+    border:1px dotted black;
+}
+div.materia{
+    background-position-y: center;
+    background-position-x: center;
+}
+a:link .materia h2, a:visited .materia h2{
+    color:red;
+}
+a:link .materia, a:visited .materia{
+    color:white;
+}
