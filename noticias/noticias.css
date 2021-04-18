@@ -1,6 +1,3 @@
-.materia#mat1{
-    background-image: linear-gradient(#0008, #000b), url('https://i.imgur.com/5UTz3oP.jpeg');
-}
 img{
     border-radius: 5%;
     max-width: 100%;
@@ -28,5 +25,5 @@ a:link .materia h2, a:visited .materia h2{
     color:red;
 }
 a:link .materia, a:visited .materia{
-    color:white;
+    color:black;
 }
